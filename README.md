@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 >
   <img src="TourEase logo.png" alt="TourEase Logo" style="margin:0" height="50"width="150"/> - Frontend Project
 </h1>
@@ -56,3 +57,13 @@ TourEase/
 git clone https://github.com/vignesh-v06/TourEase.git
 cd TourEase
 open index.html  # or use Live Server in VS Code
+=======
+# Tour-Ease - Frontend Web Application
+TourEase is a frontend-based travel advisory website that helps users explore destinations, and plan their trips efficiently.
+Frontend Web Application using HTML, CSS, and JavaScript, ensuring a responsive and visually appealing interface.
+
+# features 
+- Destination recommendations (Where 2 GO)
+- User authentication (Login/Register)
+- Contact Us page
+>>>>>>> f634af2c3869b5b81a34428369488d8dcbc52adc
